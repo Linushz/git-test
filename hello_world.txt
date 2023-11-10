@@ -1,1 +1,3 @@
 Adding some text to this file, and saving it to stage and commit.
+
+Testing git commit using VSC. Specifically without entering a message flag and thus hopefully (now) opening VSC instead of Vim (after changing config).
